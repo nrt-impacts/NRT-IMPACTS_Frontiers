@@ -4,9 +4,6 @@
 [submodule "archive/2020/Module1/B_Team"]
 	path = archive/2020/Module1/B_Team
 	url = https://github.com/oceaquaris/B_Team.git
-[submodule "archive/2020/Module2/Maize_Phenomics"]
-	path = archive/2020/Module2/Maize_Phenomics
-	url = https://github.com/sjteresi/Maize_Phenomics.git
 [submodule "archive/2020/Module3/context_matters"]
 	path = archive/2020/Module3/context_matters
 	url = https://github.com/amezqui3/context_matters.git
