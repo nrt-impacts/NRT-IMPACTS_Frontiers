@@ -19,3 +19,6 @@
 [submodule "archive/2021/Module1/CSS844-GO-Enrichment"]
 	path = archive/2021/Module1/CSS844-GO-Enrichment
 	url = https://github.com/thompsonmaizelab/CSS844-GO-Enrichment.git
+[submodule "archive/2020/Module1/GoGreen"]
+	path = archive/2020/Module1/GoGreen
+	url = https://github.com/thompsonmaizelab/GoGreen.git
