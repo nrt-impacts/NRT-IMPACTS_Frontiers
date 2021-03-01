@@ -1,0 +1,21 @@
+[submodule "archive/2020/Module1/B_Team"]
+	path = archive/2020/Module1/B_Team
+	url = https://github.com/thompsonmaizelab/B_Team.git
+[submodule "archive/2020/Module3/module3_canopy"]
+	path = archive/2020/Module3/module3_canopy
+	url = https://github.com/thompsonmaizelab/module3_canopy.git
+[submodule "archive/2020/Module3/context_matters"]
+	path = archive/2020/Module3/context_matters
+	url = https://github.com/thompsonmaizelab/context_matters.git
+[submodule "archive/2020/Module2/sjteresi_Maize_Phenomics_mirror"]
+	path = archive/2020/Module2/sjteresi_Maize_Phenomics_mirror
+	url = https://github.com/thompsonmaizelab/sjteresi_Maize_Phenomics_mirror.git
+[submodule "doc/tutorial/Scientific_Image_Understanding"]
+	path = doc/tutorial/Scientific_Image_Understanding
+	url = https://github.com/thompsonmaizelab/Scientific_Image_Understanding.git
+[submodule "archive/2021/Module1/HRT841_SVA"]
+	path = archive/2021/Module1/HRT841_SVA
+	url = https://github.com/thompsonmaizelab/HRT841_SVA.git
+[submodule "archive/2021/Module1/CSS844-GO-Enrichment"]
+	path = archive/2021/Module1/CSS844-GO-Enrichment
+	url = https://github.com/thompsonmaizelab/CSS844-GO-Enrichment.git
