@@ -28,3 +28,9 @@
 [submodule "archive/2020/Module2/serenalotreck_module-2-LUA_mirror"]
 	path = archive/2020/Module2/serenalotreck_module-2-LUA_mirror
 	url = https://github.com/thompsonmaizelab/serenalotreck_module-2-LUA_mirror.git
+[submodule "archive/2020/Module3/sjteresi_Module_3_mirror"]
+	path = archive/2020/Module3/sjteresi_Module_3_mirror
+	url = https://github.com/thompsonmaizelab/sjteresi_Module_3_mirror.git
+[submodule "archive/2020/Module1/sjteresi_Maize_ML_Project_mirror"]
+	path = archive/2020/Module1/sjteresi_Maize_ML_Project_mirror
+	url = https://github.com/thompsonmaizelab/sjteresi_Maize_ML_Project_mirror.git
