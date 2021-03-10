@@ -34,3 +34,6 @@
 [submodule "archive/2020/Module1/sjteresi_Maize_ML_Project_mirror"]
 	path = archive/2020/Module1/sjteresi_Maize_ML_Project_mirror
 	url = https://github.com/thompsonmaizelab/sjteresi_Maize_ML_Project_mirror.git
+[submodule "archive/2020/Module2/synthetic_maize"]
+	path = archive/2020/Module2/synthetic_maize
+	url = https://github.com/thompsonmaizelab/synthetic_maize.git
