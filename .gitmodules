@@ -34,3 +34,9 @@
 [submodule "archive/2020/Module1/sjteresi_Maize_ML_Project_mirror"]
 	path = archive/2020/Module1/sjteresi_Maize_ML_Project_mirror
 	url = https://github.com/thompsonmaizelab/sjteresi_Maize_ML_Project_mirror.git
+[submodule "archive/2021/Module2/CSS844_module2"]
+	path = archive/2021/Module2/CSS844_module2
+	url = https://github.com/thompsonmaizelab/CSS844_module2.git
+[submodule "archive/2021/Module2/CSS844-Insect-Damage"]
+	path = archive/2021/Module2/CSS844-Insect-Damage
+	url = https://github.com/thompsonmaizelab/CSS844-Insect-Damage.git
