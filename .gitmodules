@@ -40,3 +40,6 @@
 [submodule "archive/2021/Module2/CSS844-Insect-Damage"]
 	path = archive/2021/Module2/CSS844-Insect-Damage
 	url = https://github.com/thompsonmaizelab/CSS844-Insect-Damage.git
+[submodule "archive/2020/Module2/synthetic_maize"]
+	path = archive/2020/Module2/synthetic_maize
+	url = https://github.com/thompsonmaizelab/synthetic_maize.git
