@@ -49,3 +49,6 @@
 [submodule "archive/2021/Module2/CSS844_module2_kernel_number_size"]
 	path = archive/2021/Module2/CSS844_module2_kernel_number_size
 	url = https://github.com/thompsonmaizelab/CSS844_module2_kernel_number_size.git
+[submodule "archive/2021/Module2/IMPACTS"]
+	path = archive/2021/Module2/IMPACTS
+	url = https://github.com/thompsonmaizelab/IMPACTS.git
