@@ -43,3 +43,9 @@
 [submodule "archive/2020/Module2/synthetic_maize"]
 	path = archive/2020/Module2/synthetic_maize
 	url = https://github.com/thompsonmaizelab/synthetic_maize.git
+[submodule "archive/2021/Module2/CSS844_Mod2_EarShapeSize"]
+	path = archive/2021/Module2/CSS844_Mod2_EarShapeSize
+	url = https://github.com/thompsonmaizelab/CSS844_Mod2_EarShapeSize.git
+[submodule "archive/2021/Module2/CSS844_module2_kernel_number_size"]
+	path = archive/2021/Module2/CSS844_module2_kernel_number_size
+	url = https://github.com/thompsonmaizelab/CSS844_module2_kernel_number_size.git
