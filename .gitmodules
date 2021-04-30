@@ -52,3 +52,9 @@
 [submodule "archive/2021/Module2/IMPACTS"]
 	path = archive/2021/Module2/IMPACTS
 	url = https://github.com/thompsonmaizelab/IMPACTS.git
+[submodule "archive/2021/Module3/CSS844-module3-Hollender"]
+	path = archive/2021/Module3/CSS844-module3-Hollender
+	url = https://github.com/thompsonmaizelab/CSS844-module3-Hollender.git
+[submodule "archive/2021/Module3/CSS844-Soil-LiDAR"]
+	path = archive/2021/Module3/CSS844-Soil-LiDAR
+	url = https://github.com/thompsonmaizelab/CSS844-Soil-LiDAR.git
